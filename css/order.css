@@ -118,6 +118,7 @@
   .order__advantages {
     margin-top: 80px;
 
+    display: flex;
     flex-direction: row;
   }
 
