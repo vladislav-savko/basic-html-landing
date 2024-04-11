@@ -53,7 +53,7 @@ header {
     flex-direction: row;
   }
 
-  .header__links > .list {
+  .header__links > ul {
     gap: 2rem;
   }
 }
