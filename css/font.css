@@ -1,108 +1,108 @@
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Hairline'), local('Lato-Hairline'), url('./assets/fonts/latohairline.woff2') format('woff2'), url('./assets/fonts/latohairline.woff') format('woff'), url('./assets/fonts/latohairline.ttf') format('truetype');
+  src: local('Lato Hairline'), local('Lato-Hairline'), url('../assets/fonts/latohairline.woff2') format('woff2'), url('../assets/fonts/latohairline.woff') format('woff'), url('../assets/fonts/latohairline.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url('./assets/fonts/latohairlineitalic.woff2') format('woff2'), url('./assets/fonts/latohairlineitalic.woff') format('woff'), url('./assets/fonts/latohairlineitalic.ttf') format('truetype');
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url('../assets/fonts/latohairlineitalic.woff2') format('woff2'), url('../assets/fonts/latohairlineitalic.woff') format('woff'), url('../assets/fonts/latohairlineitalic.ttf') format('truetype');
   font-weight: 100;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Thin'), local('Lato-Thin'), url('./assets/fonts/latothin.woff2') format('woff2'), url('./assets/fonts/latothin.woff') format('woff'), url('./assets/fonts/latothin.ttf') format('truetype');
+  src: local('Lato Thin'), local('Lato-Thin'), url('../assets/fonts/latothin.woff2') format('woff2'), url('../assets/fonts/latothin.woff') format('woff'), url('../assets/fonts/latothin.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Thin Italic'), local('Lato-ThinItalic'), url('./assets/fonts/latothinitalic.woff2') format('woff2'), url('./assets/fonts/latothinitalic.woff') format('woff'), url('./assets/fonts/latothinitalic.ttf') format('truetype');
+  src: local('Lato Thin Italic'), local('Lato-ThinItalic'), url('../assets/fonts/latothinitalic.woff2') format('woff2'), url('../assets/fonts/latothinitalic.woff') format('woff'), url('../assets/fonts/latothinitalic.ttf') format('truetype');
   font-weight: 200;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Light'), local('Lato-Light'), url('./assets/fonts/latolight.woff2') format('woff2'), url('./assets/fonts/latolight.woff') format('woff'), url('./assets/fonts/latolight.ttf') format('truetype');
+  src: local('Lato Light'), local('Lato-Light'), url('../assets/fonts/latolight.woff2') format('woff2'), url('../assets/fonts/latolight.woff') format('woff'), url('../assets/fonts/latolight.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Light Italic'), local('Lato-LightItalic'), url('./assets/fonts/latolightitalic.woff2') format('woff2'), url('./assets/fonts/latolightitalic.woff') format('woff'), url('./assets/fonts/latolightitalic.ttf') format('truetype');
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url('../assets/fonts/latolightitalic.woff2') format('woff2'), url('../assets/fonts/latolightitalic.woff') format('woff'), url('../assets/fonts/latolightitalic.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Regular'), local('Lato-Regular'), url('./assets/fonts/latoregular.woff2') format('woff2'), url('./assets/fonts/latoregular.woff') format('woff'), url('./assets/fonts/latoregular.ttf') format('truetype');
+  src: local('Lato Regular'), local('Lato-Regular'), url('../assets/fonts/latoregular.woff2') format('woff2'), url('../assets/fonts/latoregular.woff') format('woff'), url('../assets/fonts/latoregular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Italic'), local('Lato-Italic'), url('./assets/fonts/latoitalic.woff2') format('woff2'), url('./assets/fonts/latoitalic.woff') format('woff'), url('./assets/fonts/latoitalic.ttf') format('truetype');
+  src: local('Lato Italic'), local('Lato-Italic'), url('../assets/fonts/latoitalic.woff2') format('woff2'), url('../assets/fonts/latoitalic.woff') format('woff'), url('../assets/fonts/latoitalic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Medium'), local('Lato-Medium'), url('./assets/fonts/latomedium.woff2') format('woff2'), url('./assets/fonts/latomedium.woff') format('woff'), url('./assets/fonts/latomedium.ttf') format('truetype');
+  src: local('Lato Medium'), local('Lato-Medium'), url('../assets/fonts/latomedium.woff2') format('woff2'), url('../assets/fonts/latomedium.woff') format('woff'), url('../assets/fonts/latomedium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Medium Italic'), local('Lato-MediumItalic'), url('./assets/fonts/latomediumitalic.woff2') format('woff2'), url('./assets/fonts/latomediumitalic.woff') format('woff'), url('./assets/fonts/latomediumitalic.ttf') format('truetype');
+  src: local('Lato Medium Italic'), local('Lato-MediumItalic'), url('../assets/fonts/latomediumitalic.woff2') format('woff2'), url('../assets/fonts/latomediumitalic.woff') format('woff'), url('../assets/fonts/latomediumitalic.ttf') format('truetype');
   font-weight: 500;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Semibold'), local('Lato-Semibold'), url('./assets/fonts/latosemibold.woff2') format('woff2'), url('./assets/fonts/latosemibold.woff') format('woff'), url('./assets/fonts/latosemibold.ttf') format('truetype');
+  src: local('Lato Semibold'), local('Lato-Semibold'), url('../assets/fonts/latosemibold.woff2') format('woff2'), url('../assets/fonts/latosemibold.woff') format('woff'), url('../assets/fonts/latosemibold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Semibold Italic'), local('Lato-SemiboldItalic'), url('./assets/fonts/latosemibolditalic.woff2') format('woff2'), url('./assets/fonts/latosemibolditalic.woff') format('woff'), url('./assets/fonts/latosemibolditalic.ttf') format('truetype');
+  src: local('Lato Semibold Italic'), local('Lato-SemiboldItalic'), url('../assets/fonts/latosemibolditalic.woff2') format('woff2'), url('../assets/fonts/latosemibolditalic.woff') format('woff'), url('../assets/fonts/latosemibolditalic.ttf') format('truetype');
   font-weight: 600;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Bold'), local('Lato-Bold'), url('./assets/fonts/latobold.woff2') format('woff2'), url('./assets/fonts/latobold.woff') format('woff'), url('./assets/fonts/latobold.ttf') format('truetype');
+  src: local('Lato Bold'), local('Lato-Bold'), url('../assets/fonts/latobold.woff2') format('woff2'), url('../assets/fonts/latobold.woff') format('woff'), url('../assets/fonts/latobold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('./assets/fonts/latobolditalic.woff2') format('woff2'), url('./assets/fonts/latobolditalic.woff') format('woff'), url('./assets/fonts/latobolditalic.ttf') format('truetype');
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url('../assets/fonts/latobolditalic.woff2') format('woff2'), url('../assets/fonts/latobolditalic.woff') format('woff'), url('../assets/fonts/latobolditalic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Heavy'), local('Lato-Heavy'), url('./assets/fonts/latoheavy.woff2') format('woff2'), url('./assets/fonts/latoheavy.woff') format('woff'), url('./assets/fonts/latoheavy.ttf') format('truetype');
+  src: local('Lato Heavy'), local('Lato-Heavy'), url('../assets/fonts/latoheavy.woff2') format('woff2'), url('../assets/fonts/latoheavy.woff') format('woff'), url('../assets/fonts/latoheavy.ttf') format('truetype');
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Heavy Italic'), local('Lato-HeavyItalic'), url('./assets/fonts/latoheavyitalic.woff2') format('woff2'), url('./assets/fonts/latoheavyitalic.woff') format('woff'), url('./assets/fonts/latoheavyitalic.ttf') format('truetype');
+  src: local('Lato Heavy Italic'), local('Lato-HeavyItalic'), url('../assets/fonts/latoheavyitalic.woff2') format('woff2'), url('../assets/fonts/latoheavyitalic.woff') format('woff'), url('../assets/fonts/latoheavyitalic.ttf') format('truetype');
   font-weight: 800;
   font-style: italic;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Black'), local('Lato-Black'), url('./assets/fonts/latoblack.woff2') format('woff2'), url('./assets/fonts/latoblack.woff') format('woff'), url('./assets/fonts/latoblack.ttf') format('truetype');
+  src: local('Lato Black'), local('Lato-Black'), url('../assets/fonts/latoblack.woff2') format('woff2'), url('../assets/fonts/latoblack.woff') format('woff'), url('../assets/fonts/latoblack.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: 'Lato';
-  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('./assets/fonts/latoblackitalic.woff2') format('woff2'), url('./assets/fonts/latoblackitalic.woff') format('woff'), url('./assets/fonts/latoblackitalic.ttf') format('truetype');
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url('../assets/fonts/latoblackitalic.woff2') format('woff2'), url('../assets/fonts/latoblackitalic.woff') format('woff'), url('../assets/fonts/latoblackitalic.ttf') format('truetype');
   font-weight: 900;
   font-style: italic;
 }
