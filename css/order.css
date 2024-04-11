@@ -1,0 +1,143 @@
+.order {
+  display: flex;
+  justify-content: center;
+
+  padding: 8rem 1rem;
+
+  background-image: url(/assets/images/prod/dots.webp);
+  background-color: var(--dark-bg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.order__heading {
+  text-align: center;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.order_heading_title {
+  font-weight: 800;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.order_heading_subtitle {
+  font-weight: 400;
+  font-size: 1.125rem;
+  color: var(--text-grey);
+}
+
+.order__advantages {
+  margin-top: 40px;
+
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+
+  gap: 40px;
+}
+
+.order__advantages_item {
+  color: white;
+
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: center;
+
+  width: 200px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+
+  margin: auto;
+}
+
+.order__advantages_item_icon {
+  border: 5px solid var(--dark-accent);
+  border-radius: 100%;
+
+  width: 100px;
+  height: 100px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--accent);
+}
+
+.order__form {
+  margin-top: 80px;
+}
+
+.order__form_container {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 30px;
+}
+
+.input {
+  border-radius: 5px;
+  border: 0;
+
+  padding: 0.7rem 0.8rem;
+
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.order__form_buttons {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 40px;
+
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 30px;
+}
+
+.order__form_buttons > span {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .order__advantages {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .order__advantages {
+    margin-top: 80px;
+
+    flex-direction: row;
+  }
+
+  .order__form_buttons > span {
+    display: block;
+  }
+
+  .order__form_buttons {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .order__form_container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+  }
+
+  .order__form_container > *:nth-child(4) {
+    grid-column: span 2 / span 2;
+  }
+}
